@@ -1,4 +1,4 @@
-# Pro Bio
+# ProBio Web Page
 Página web de la empresa ProBio realizada en el semestre Agosto-Diciembre 2016.
 
 ## Getting Started
@@ -9,9 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 You must have installed the last version of Laravel [https://laravel.com/docs/5.3]
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -21,12 +18,7 @@ git clone https://github.com/rdorame/proBio.git
 composer update
 
 php artisan serve
-```
 
-And repeat
-
-```
-until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
