@@ -20,8 +20,17 @@ composer update
 php artisan serve
 
 ```
-Home
+```
+Home Screen
 ![alt tag](https://raw.githubusercontent.com/rdorame/proBio/rdorame/Screenshots/HomeScreen.png)
+
+Login
+![alt tag](https://raw.githubusercontent.com/rdorame/proBio/rdorame/Screenshots/Login.png)
+
+Register
+![alt tag](https://raw.githubusercontent.com/rdorame/proBio/rdorame/Screenshots/Register.png)
+
+```
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
