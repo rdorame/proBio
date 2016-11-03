@@ -1,0 +1,103 @@
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/Stilu-Regular.otf);
+}
+
+html {
+    background-color: #FFF;
+    font-family: myFont;
+}
+body{
+    background-color: #FFF;
+    background-image: url("../img/bg.png");
+    background-repeat: repeat-y;
+}
+
+img{
+    margin-top: 1em;
+}
+
+
+.nav{
+    color: #636b6f;
+    padding: 25px 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+
+}
+
+.login {
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.login-heading {
+  font: 1.8em/48px "Tenor Sans", sans-serif;
+  color: grey;
+}
+
+.input-txt {
+  width: 100%;
+  padding: 20px 10px;
+  background: #FFF;
+  border: 0;
+  font-size: 1em;
+  color: black;
+  border-bottom: black;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -moz-transition: background-color 0.5s ease-in-out;
+  -o-transition: background-color 0.5s ease-in-out;
+  -webkit-transition: background-color 0.5s ease-in-out;
+  transition: background-color 0.5s ease-in-out;
+}
+.input-txt:-moz-placeholder {
+  color: #81aac9;
+}
+.input-txt:-ms-input-placeholder {
+  color: #81aac9;
+}
+.input-txt::-webkit-input-placeholder {
+  color: #81aac9;
+}
+.input-txt:focus {
+  background-color: #FFF;
+}
+
+.login-footer {
+  margin: 10px 0;
+  overlow: hidden;
+  float: left;
+  width: 100%;
+}
+
+.btn {
+  padding: 15px 30px;
+  border: none;
+  background: green;
+  color: #FFF;
+}
+
+.btn--right {
+  float: right;
+}
+
+.icon {
+  display: inline-block;
+}
+
+.icon--min {
+  font-size: .9em;
+}
+
+.lnk {
+  font-size: 1.0em;
+  line-height: 3em;
+  color: grey;
+  text-decoration: none;
+}
