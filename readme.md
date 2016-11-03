@@ -36,8 +36,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Laravel](http://www.dropwizard.io/1.0.2/docs/) - Web framework used
-* [MySQL](https://www.mysql.com/) - Database built on MySQL 
+* [Laravel](https://laravel.com/docs/5.3) - Web framework used
+* [MySQL](https://www.mysql.com/) - Database built on MySQL
 
 
 ## Versioning
